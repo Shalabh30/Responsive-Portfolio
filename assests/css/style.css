@@ -279,6 +279,7 @@ a:hover {
 	.profilepic {
 		width: 370px;
 		height: 250px;
+		margin-bottom: 20px;
 	}
 
 	footer {
@@ -338,6 +339,7 @@ a:hover {
 	}
 	#left-portfolio {
 		width: 700px;
+		margin-left: 20px;
 	}
 	#left-contact {
 		width: 700px;
@@ -395,11 +397,12 @@ a:hover {
 		margin-left: -4px;
 	}
     #left-portfolio {
-		width: 585px;
+		width: 460px;
+		margin-left: 80px;
 }
 	#left-contact {
 		width: 585px;
-		margin-left: 18px;
+		margin-left: 15px;
 	}
 
 } 
